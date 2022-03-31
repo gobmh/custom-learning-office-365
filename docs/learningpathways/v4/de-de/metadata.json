@@ -198,32 +198,13 @@
       ]
     },
     {
-      "Id": "6f24fa15-2de8-411e-b66f-5a3888c46487",
+      "Id": "371c58dc-c127-45c1-a821-91f89b2167f9",
       "Name": "unitop",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "GOB",
-      "SubCategories": [
-        {
-          "Id": "be1f2976-71b7-4713-a675-c7a91e71dafa",
-          "Name": "Erster Tag",
-          "Image": "images/categories/toolkit.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "GOB",
-          "SubCategories": []
-        },
-        {
-          "Id": "e94b633b-66d5-484b-8bfd-a2b17853d62f",
-          "Name": "Übersicht",
-          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "GOB",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
