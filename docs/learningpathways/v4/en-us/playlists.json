@@ -1,5 +1,22 @@
 [
   {
+    "Id": "d845cc13-718a-428b-b2b8-603e4950766d",
+    "Title": "Willkommen",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "GOB",
+    "CatId": "be1f2976-71b7-4713-a675-c7a91e71dafa",
+    "Description": "Herzlich Willkommen",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "2896ff84-ea75-475b-81f5-1579ef90f69f"
+    ]
+  },
+  {
     "Id": "c98cbead-b82e-41a3-916c-57946a6c63f9",
     "Title": "unitop Entwicklung",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",

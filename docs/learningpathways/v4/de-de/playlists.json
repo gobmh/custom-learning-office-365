@@ -1,5 +1,22 @@
 [
   {
+    "Id": "d845cc13-718a-428b-b2b8-603e4950766d",
+    "Title": "Willkommen",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "GOB",
+    "CatId": "be1f2976-71b7-4713-a675-c7a91e71dafa",
+    "Description": "Herzlich Willkommen",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "2896ff84-ea75-475b-81f5-1579ef90f69f"
+    ]
+  },
+  {
     "Id": "c98cbead-b82e-41a3-916c-57946a6c63f9",
     "Title": "unitop Entwicklung",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
@@ -8,12 +25,12 @@
     "TechnologyId": "8c51a322-9fbd-49e4-8846-be3801e3deb6",
     "SubjectId": "",
     "Source": "GOB",
-    "CatId": "6f24fa15-2de8-411e-b66f-5a3888c46487",
+    "CatId": "371c58dc-c127-45c1-a821-91f89b2167f9",
     "Description": "Hilfestellung zum Einstieg in die Entwicklung unser Lösung unitop",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "b87b2e8d-3e66-48fb-adb7-e2b60dbb93e8",
+      "77cf70fb-8810-4050-8df6-d2bd5f248c56",
       "d06ef1c9-e732-4ef7-822a-3a64c769ea45"
     ]
   },
