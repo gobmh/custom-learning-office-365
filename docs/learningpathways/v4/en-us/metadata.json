@@ -166,7 +166,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Onboarding",
+      "Name": "Get started",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -184,34 +184,6 @@
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
           "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "c9c5caed-4ea9-4790-9c85-59c12528d754",
-      "Name": "Onboarding1",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "719aaed5-523b-4e72-811a-1a8222251ac7",
-          "Name": "Willkommen GOB",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "cdde29b5-31da-4c97-97ff-20cd20255689",
-          "Name": "Ansprechpartner",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
