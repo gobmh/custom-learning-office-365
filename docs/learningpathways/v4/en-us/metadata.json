@@ -1,6 +1,11 @@
 {
   "Technologies": [
     {
+      "Id": "8c51a322-9fbd-49e4-8846-be3801e3deb6",
+      "Name": "unitop",
+      "Subjects": []
+    },
+    {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "Name": "Lists",
       "Subjects": []
@@ -131,7 +136,7 @@
     },
     {
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "Excellent",
+      "Name": "Excel",
       "Subjects": []
     },
     {
@@ -164,6 +169,34 @@
     }
   ],
   "Categories": [
+    {
+      "Id": "4f2912b3-bee1-49fd-a793-70379ec6b44d",
+      "Name": "Onboarding",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "GOB",
+      "SubCategories": [
+        {
+          "Id": "be1f2976-71b7-4713-a675-c7a91e71dafa",
+          "Name": "Erster Tag",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "GOB",
+          "SubCategories": []
+        },
+        {
+          "Id": "e94b633b-66d5-484b-8bfd-a2b17853d62f",
+          "Name": "Übersicht",
+          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "GOB",
+          "SubCategories": []
+        }
+      ]
+    },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
@@ -503,7 +536,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "GOB"
   ],
   "Levels": [
     {
