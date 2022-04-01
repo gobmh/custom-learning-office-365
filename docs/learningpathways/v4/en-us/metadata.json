@@ -170,6 +170,34 @@
   ],
   "Categories": [
     {
+      "Id": "84c964a9-2dd1-4c5c-a870-753240abb96d",
+      "Name": "Einkauf",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "GOB",
+      "SubCategories": [
+        {
+          "Id": "9c2ced28-c704-438d-9242-fe11038bf78f",
+          "Name": "Rechnungseingang",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "GOB",
+          "SubCategories": []
+        },
+        {
+          "Id": "faebfd0b-bb83-4995-8b03-9fb4719af35a",
+          "Name": "Rechnungsausgang",
+          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "GOB",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "4f2912b3-bee1-49fd-a793-70379ec6b44d",
       "Name": "Onboarding",
       "Image": "",
